@@ -18,3 +18,4 @@ Whether you're building a web- or desktop-based application with Java SE or Java
 
 ### Additional Resources:
 - MySQL Connector/J is the official JDBC driver for MySQL: https://dev.mysql.com/downloads/connector/j/
+- HyperSQL: http://hsqldb.org/
