@@ -8,7 +8,7 @@ public class ConnectHsqlDb {
 
 	private static final String USERNAME = "dbuser";
 	private static final String PASSWORD = "dbpassword";
-	private static final String CONN_STRING = "jdbc:mysql://localhost/explorecalifornia";
+	private static final String CONN_STRING = "jdbc:hsqldb:data/explorecalifornia";
 	
 	public static void main(String[] args) throws SQLException 
 	{
